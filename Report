@@ -38,8 +38,8 @@ MUTYABA RASHID :  regressor
 khalid Taban Luate : normal equation (linear solvers)
 Mandela Nickson: ridge cost function and L2 regularization (ridge model)
 Tumweheire Desire: gradient descent
-SSEMWOGERERE OTHMAN : hyperparameter tuning and model evaluation
-Ainemugabe Crisbert :
+SSEMWOGERERE OTHMAN :  evaluation
+Ainemugabe Crisbert :hyperparameter tuning model
 In progress!!!
 
 Ayesiga Anslem opened up a respiratory for the group members to use to issue the work to him.
@@ -54,8 +54,8 @@ ridgelib/
 ├── .clang format             (from vscode)
 ├── .gitignore
 ├── CMakeLists.txt
-├── LICENSE.                   Not yet issued  
-├── README.md                  Not yet issued
+├── LICENSE.                   
+├── README.md                  
 │
 ├── include/ridgelib/         public API (12 headers)
 │   ├── matrix.hpp                 Ayesiga Anslem 
