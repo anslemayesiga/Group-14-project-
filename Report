@@ -25,6 +25,9 @@ week 1 (started on  28th September to 5th October )
 Respiratory link:https://github.com/anslemayesiga/Group-14-project-.git
 Completed 
 We read the group project instructions and agreed what the final submission must contain (library, tests, examples, README, weekly reports, final report, AI use declaration).
+We completed cloning to vs code commiting, pushing and pulling so we are able to connect github and vs code remotly.
+
+
 Chose the project topic from the project sheet: ridge regression from scratch, with scikit-learn as the reference to compare against.
 Divided the 12 topics on the project sheet among the 10 members ie
 Ayesiga Anslem: matrix and vector operations
