@@ -1,1 +1,32 @@
+Group -14 -project . Machine learning 6
+Group size -9 members
+members of the group 
+1. Ayesiga Anslem 25/U/0824 BELE
+2. Wobusobozi Chrispus Owen 25/U/0860 BELE
+3. Kyelanyi Martin Tom. 25/U/31011/PS.
+4. Mandela Nickson 25/U/0838 BELE
+5. Tumweheire Desire 24/U/1386 BELE
+6. SSEMWOGERERE OTHMAN 25/U/05369/PS BCCE
+7.
+8.
+9.
+week 1 (started on  28th September to 5th October )
 
+Respiratory link:https://github.com/anslemayesiga/Group-14-project-.git
+Completed 
+We read the group project instructions and agreed what the final submission must contain (library, tests, examples, README, weekly reports, final report, AI use declaration).
+Chose the project topic from the project sheet: ridge regression from scratch, with scikit-learn as the reference to compare against.
+Divided the 12 topics on the project sheet among the 9 members ie
+Ayesiga Anslem: matrix and vector operations
+Wobusobozi Chrispus Owen : dataset loading and data preprocessing
+Kyelanyi Martin Tom: feature scaling (also repository and CMake setup)
+Member : linear regression baseline and prediction
+Member 5: normal equation (linear solvers)
+Mandela Nickson: ridge cost function and L2 regularization (ridge model)
+Tumweheire Desire: gradient descent
+SSEMWOGERERE OTHMAN : hyperparameter tuning and model evaluation
+
+Ayesiga Anslem opened up a respiratory for the group members to use to issue the work to him.
+We agreed the project structure from the instructions (include/, src/, tests/, examples/, reports/, data/) and the public API (header files) for every module.
+Agreed shared conventions: vectors are std::vector<double>; cost function is J = (1/n) * sum(prediction - y)^2 + lambda * ||w||^2; the intercept is not penalized; scalers are fitted on training data only; scikit-learn's alpha equals n * lambda.
+Set up the CMake build with GoogleTest and a first set of unit tests and one example program.
