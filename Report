@@ -30,3 +30,9 @@ Ayesiga Anslem opened up a respiratory for the group members to use to issue the
 We agreed the project structure from the instructions (include/, src/, tests/, examples/, reports/, data/) and the public API (header files) for every module.
 Agreed shared conventions: vectors are std::vector<double>; cost function is J = (1/n) * sum(prediction - y)^2 + lambda * ||w||^2; the intercept is not penalized; scalers are fitted on training data only; scikit-learn's alpha equals n * lambda.
 Set up the CMake build with GoogleTest and a first set of unit tests and one example program.
+AI Use
+Tool: Claude
+Purpose: To analysed the project instructions and summarized the requirements; explained what ridge regression is and how the project topics fit together.
+Reason: To understand the assignment and the machine learning concept 
+Purpose: Used it to generate the project skeleton (folder structure)
+Reason: To give all members one agreed interface to code against from day one.
