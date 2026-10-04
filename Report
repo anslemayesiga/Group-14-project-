@@ -7,8 +7,8 @@ members of the group
 4. Mandela Nickson 25/U/0838 BELE
 5. Tumweheire Desire 24/U/1386 BELE
 6. SSEMWOGERERE OTHMAN 25/U/05369/PS BCCE
-7.
-8.
+7. KAMUGISHA ELIAS 25/U/26715 BBIO
+8. MUTYABA RASHID 20/U/19699/PSA BELE
 9.
 week 1 (started on  28th September to 5th October )
 
@@ -20,7 +20,8 @@ Divided the 12 topics on the project sheet among the 9 members ie
 Ayesiga Anslem: matrix and vector operations
 Wobusobozi Chrispus Owen : dataset loading and data preprocessing
 Kyelanyi Martin Tom: feature scaling (also repository and CMake setup)
-Member : linear regression baseline and prediction
+KAMUGISHA ELIAS : linear regression baseline 
+MUTYABA RASHID : prediction
 Member 5: normal equation (linear solvers)
 Mandela Nickson: ridge cost function and L2 regularization (ridge model)
 Tumweheire Desire: gradient descent
