@@ -21,7 +21,7 @@ Ayesiga Anslem: matrix and vector operations
 Wobusobozi Chrispus Owen : dataset loading and data preprocessing
 Kyelanyi Martin Tom: feature scaling (also repository and CMake setup)
 KAMUGISHA ELIAS : linear regression baseline 
-MUTYABA RASHID : prediction
+MUTYABA RASHID :  regressor
 Member 5: normal equation (linear solvers)
 Mandela Nickson: ridge cost function and L2 regularization (ridge model)
 Tumweheire Desire: gradient descent
