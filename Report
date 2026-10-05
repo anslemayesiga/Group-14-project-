@@ -78,7 +78,7 @@ ridgelib/
 │   ├── metrics.cpp  tuning.cpp
 │   └── internal.hpp              
 │
-├── tests/                    Tests goin to be practiced 
+├── tests/                    Tests going to be practiced 
 │   ├── test_matrix.cpp  test_dataset.cpp  test_preprocessing.cpp
 │   ├── test_scaler.cpp  test_linear_regression.cpp  test_solver.cpp
 │   ├── test_cost.cpp  test_ridge_regression.cpp
@@ -92,7 +92,7 @@ ridgelib/
 
 
 
-problems faced ..
+problems faced /challengs..
 1. Adding a re-useable library 
 2. Most modules depend on the matrix module, so it has to be merged first; the other members work against its agreed header meanwhile.
 
